@@ -1,5 +1,7 @@
 # Rust Book
 
+[Book](https://doc.rust-lang.org/stable/book/)
+
 ## First Chapter: Getting Started
 
 ```rust
