@@ -1,5 +1,5 @@
 [package]
-name = "cargo_project"
+name = "packages_and_crates"
 version = "0.1.0"
 edition = "2021"
 
