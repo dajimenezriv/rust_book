@@ -65,7 +65,7 @@ fn calculate_length(s: &String) -> usize {
 
 We are referencing. The opossite is dereferencing, using the operator *.<br>
 
-![Reference](https://raw.githubusercontent.com/dajimenezriv/rust/main/rust_book/ownership/ownership.svg)
+![Reference](https://raw.githubusercontent.com/dajimenezriv/rust_book/main/ownership/ownership.svg)
 
 We can update a mutable reference.
 
